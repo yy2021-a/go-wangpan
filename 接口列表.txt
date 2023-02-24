@@ -1,0 +1,5 @@
+文件上传接口 post/file/upload
+文件查询接口get/file/query
+文件下载接口get/file/download
+文件删除接口post/file/delete
+文件修改（重命名）接口post/file/update
